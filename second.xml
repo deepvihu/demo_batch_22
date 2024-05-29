@@ -5,7 +5,7 @@
 	  <groups>
 		  <define name="one">
 			
-			  <include name="sanity"/>
+			  <include name="regression"/>
 			
 		  </define>
 		  
